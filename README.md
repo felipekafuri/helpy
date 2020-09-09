@@ -1,3 +1,2 @@
 # helpy
-
-<iframe src="https://giphy.com/embed/Mcy8dCFTK5IBFb3wjP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Mcy8dCFTK5IBFb3wjP">via GIPHY</a></p>
+![Project Image](https://user-images.githubusercontent.com/45128599/92539221-34123700-f217-11ea-9a89-a5ec7db63912.gif)
